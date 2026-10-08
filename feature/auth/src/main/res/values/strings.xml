@@ -1,0 +1,9 @@
+<resources>
+    <string name="feature_login_title">Sign in</string>
+    <string name="feature_login_username">Username</string>
+    <string name="feature_login_password">Password</string>
+    <string name="feature_login_button">Login</string>
+    <string name="feature_login_hint">Demo account: emilys / emilyspass</string>
+    <string name="feature_home_title">Profile</string>
+    <string name="feature_home_logout">Logout</string>
+</resources>

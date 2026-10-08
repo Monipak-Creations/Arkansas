@@ -1,0 +1,5 @@
+<resources>
+    <string name="feature_products_title">Products</string>
+    <string name="feature_products_profile">Profile</string>
+    <string name="feature_products_retry">Retry</string>
+</resources>
